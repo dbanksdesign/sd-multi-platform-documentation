@@ -1,0 +1,15 @@
+{
+  "name": "sd-multi-platform-documentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dbanksdesign/sd-multi-platform-documentation.git",
+  "author": "Danny Banks <djb@amazon.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "style-dictionary build --config ./sd.config.js"
+  },
+  "dependencies": {
+    "style-dictionary": "^2.10.0"
+  }
+}

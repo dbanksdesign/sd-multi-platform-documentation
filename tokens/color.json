@@ -1,0 +1,14 @@
+{
+  "color": {
+    "cta": {
+      "primary": { 
+        "value": "#000",
+        "comment": "This is a color for primary buttons and links"
+      },
+      "secondary": {
+        "value": "#888",
+        "comment": "This is a color for secondary buttons"
+      }
+    }
+  }
+}
